@@ -33,7 +33,7 @@ streamlit run day_2/hello_world.py
 streamlit run day_3/button.py
 ```
 
-## Day 4
+## Day 4 [skipped]
 
 https://www.youtube.com/watch?v=Yk-unX4KnV4
 
@@ -42,3 +42,13 @@ https://www.youtube.com/watch?v=Yk-unX4KnV4
 ```
 streamlit run day_5/st_write.py
 ```
+
+## Day 6 [skipped]
+
+Using GitHub.
+
+## Day 7
+
+Deploying your Streamlit app with Streamlit Cloud.
+
+https://share.streamlit.io/ariefrahmansyah/30days-streamlit/main/day_2/hello_world.py
