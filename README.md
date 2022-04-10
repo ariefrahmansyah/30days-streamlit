@@ -52,3 +52,21 @@ Using GitHub.
 Deploying your Streamlit app with Streamlit Cloud.
 
 https://share.streamlit.io/ariefrahmansyah/30days-streamlit/main/day_2/hello_world.py
+
+## Day 8
+
+```
+streamlit run day_8/st_slider.py
+```
+
+## Day 9
+
+```
+streamlit run day_9/st_line_chart.py
+```
+
+## Day 10
+
+```
+streamlit run day_10/st_selectbox.py
+```
