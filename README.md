@@ -70,3 +70,9 @@ streamlit run day_9/st_line_chart.py
 ```
 streamlit run day_10/st_selectbox.py
 ```
+
+## Day 11
+
+```
+streamlit run day_11/st_multiselect.py
+```
