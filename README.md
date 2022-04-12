@@ -76,3 +76,9 @@ streamlit run day_10/st_selectbox.py
 ```
 streamlit run day_11/st_multiselect.py
 ```
+
+## Day 12
+
+```
+streamlit run day_12/st_checkbox.py
+```
