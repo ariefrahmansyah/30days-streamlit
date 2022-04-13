@@ -82,3 +82,12 @@ streamlit run day_11/st_multiselect.py
 ```
 streamlit run day_12/st_checkbox.py
 ```
+
+## Day 13 [skipped]
+
+Using cloud development environment, such as:
+
+- [GitPod](https://www.gitpod.io)
+- [GitHub Codespaces](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/setting-up-your-python-project-for-codespaces)
+- [Replit](https://replit.com)
+- [Cloud9](https://aws.amazon.com/cloud9)
