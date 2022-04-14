@@ -91,3 +91,9 @@ Using cloud development environment, such as:
 - [GitHub Codespaces](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/setting-up-your-python-project-for-codespaces)
 - [Replit](https://replit.com)
 - [Cloud9](https://aws.amazon.com/cloud9)
+
+## Day 14
+
+```
+streamlit run day_14/st_pandas_profiling.py
+```
