@@ -97,3 +97,9 @@ Using cloud development environment, such as:
 ```
 streamlit run day_14/st_pandas_profiling.py
 ```
+
+## Day 15
+
+```
+streamlit run day_15/st_latex.py
+```
