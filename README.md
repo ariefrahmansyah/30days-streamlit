@@ -103,3 +103,10 @@ streamlit run day_14/st_pandas_profiling.py
 ```
 streamlit run day_15/st_latex.py
 ```
+
+## Day 16
+
+```
+cd day_16
+streamlit run theme.py
+```
