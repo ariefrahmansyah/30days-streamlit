@@ -110,3 +110,10 @@ streamlit run day_15/st_latex.py
 cd day_16
 streamlit run theme.py
 ```
+
+## Day 17
+
+```
+cd day_17
+streamlit run st_secrets.py
+```
