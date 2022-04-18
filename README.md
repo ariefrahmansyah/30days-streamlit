@@ -117,3 +117,9 @@ streamlit run theme.py
 cd day_17
 streamlit run st_secrets.py
 ```
+
+## Day 18
+
+```
+streamlit run day_18/st_file_uploader.py
+```
