@@ -123,3 +123,9 @@ streamlit run st_secrets.py
 ```
 streamlit run day_18/st_file_uploader.py
 ```
+
+## Day 19
+
+```
+streamlit run day_19/layout.py
+```
