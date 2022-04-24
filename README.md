@@ -152,3 +152,7 @@ streamlit run day_19/layout.py
 [What is Streamlit?](https://twitter.com/i/spaces/1dRJZlbglXMKB)
 
 ## Day 21
+
+```
+streamlit run day_21/st_progress.py
+```
