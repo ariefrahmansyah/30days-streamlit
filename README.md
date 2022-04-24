@@ -156,3 +156,9 @@ streamlit run day_19/layout.py
 ```
 streamlit run day_21/st_progress.py
 ```
+
+## Day 22
+
+```
+streamlit run day_22/st_form.py
+```
