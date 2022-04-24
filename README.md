@@ -162,3 +162,9 @@ streamlit run day_21/st_progress.py
 ```
 streamlit run day_22/st_form.py
 ```
+
+## Day 23
+
+```
+streamlit run day_23/st_get_query_params.py
+```
