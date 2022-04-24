@@ -15,6 +15,23 @@ pyenv activate 30days-streamlit
 pip install -r requirements.txt
 ```
 
+## Sidebar
+
+### About
+
+[Streamlit](https://streamlit.io/) is a Python library that allows the creation of interactive, data-driven web applications in Python.
+
+### Resources
+
+- [Streamlit Documentation](https://docs.streamlit.io/)
+- [Cheat sheet](https://docs.streamlit.io/library/cheatsheet)
+- [Book](https://www.amazon.com/dp/180056550X) (Getting Started with Streamlit for Data Science)
+- [Blog](https://blog.streamlit.io/how-to-master-streamlit-for-data-science/) (How to master Streamlit for data science)
+
+### Deploy
+
+You can quickly deploy Streamlit apps using [Streamlit Cloud](https://streamlit.io/cloud) in just a few clicks.
+
 ## Day 1
 
 ```
@@ -35,7 +52,7 @@ streamlit run day_3/button.py
 
 ## Day 4 [skipped]
 
-https://www.youtube.com/watch?v=Yk-unX4KnV4
+[Building a YouTube Data Dashboard with Streamlit](https://www.youtube.com/watch?v=Yk-unX4KnV4)
 
 ## Day 5
 
@@ -129,3 +146,9 @@ streamlit run day_18/st_file_uploader.py
 ```
 streamlit run day_19/layout.py
 ```
+
+## Day 20 [skipped]
+
+[What is Streamlit?](https://twitter.com/i/spaces/1dRJZlbglXMKB)
+
+## Day 21
