@@ -168,3 +168,33 @@ streamlit run day_22/st_form.py
 ```
 streamlit run day_23/st_get_query_params.py
 ```
+
+## Day 24
+
+```
+streamlit run day_24/st_cache.py
+```
+
+## Day 25
+
+```
+streamlit run day_25/st_session_state.py
+```
+
+## Day 26
+
+```
+streamlit run day_26/api.py
+```
+
+## Day 27
+
+```
+streamlit run day_27/elements.py
+```
+
+## Day 28
+
+```
+streamlit run day_28/st_shap.py
+```
