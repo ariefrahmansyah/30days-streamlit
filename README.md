@@ -198,3 +198,7 @@ streamlit run day_27/elements.py
 ```
 streamlit run day_28/st_shap.py
 ```
+
+## Day 29 [skipped]
+
+[How to create a zero-shot learning text classifier using Hugging Face & Streamlit!](https://www.charlywargnier.com/post/how-to-create-a-zero-shot-learning-text-classifier-using-hugging-face-and-streamlit)
